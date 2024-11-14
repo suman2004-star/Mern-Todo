@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <h1 className='bg-green-700'>suman</h1>
+  
      <Todo/>
     </>
   )
